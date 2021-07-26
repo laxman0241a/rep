@@ -1,5 +1,0 @@
-- hosts: all
-  tasks:
-      user: sunil
-      state: present
-
